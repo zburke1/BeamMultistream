@@ -1,0 +1,19 @@
+body {
+    background-image: url("/media/bg.jpg");
+}
+
+.selectPanel{
+  margin-top:5vh;
+  width:80%;
+  float: none;
+     margin-left: auto;
+     margin-right: auto;
+}
+h2{
+	color:white;
+}
+.col-centered {
+  float: none;
+  margin-right: auto;
+  margin-left: auto;
+}
